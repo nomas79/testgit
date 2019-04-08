@@ -1,0 +1,6 @@
+*.vs
+[Oo]bj/
+x64/
+x86/
+[Dd]ebug/
+bin/
